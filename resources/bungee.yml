@@ -1,0 +1,5 @@
+name: balbAdvert
+author: Balbucio
+version: 1.1.1
+main: me.balbucio.ad.Main
+description: Crie alertas gerais no seu servidor!
